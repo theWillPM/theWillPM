@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theWillPM  #### Call me Will or Bill
 - 👀 I’m interested in programming and gaming. Former civil engineer from Brazil. Def. not interested in that anymore.
-- 🌱 I’m currently learning Java and Android Studio.
-- 💞️ I’m looking to collaborate on ... Well, anything I find interesting.
+- 🌱 I’m currently learning C++, Java and Android Studio.
+- 💞️ I’m looking to collaborate on ... Well, anything I find interesting - Bonus if it involves games.
 - 📫 How to reach me: e-mail.
 
 <!---
