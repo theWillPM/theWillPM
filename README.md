@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theWillPM ### Call me Willian or Will.
 - 👀 I’m interested in programming and gaming. Currently enrolled in Software Development @BowValleyCollege.
-- 🌱 I’m currently learning C++, Java, Javascript, HTML, CSS and Android Studio. (Got a few certificates already)
-- 💞️ I’m looking to collaborate on ... Well, anything I find interesting - Bonus if it involves games.
+- 🌱 I’m currently learning C#, Javascript, HTML, CSS, SQL. (Got a few certificates already)
+- 💞️ I’m looking to collaborate on ... Well, anything I find interesting or challenging enough - Bonus if it involves games.
 - 📫 How to reach me: e-mail.
 
 <!---
