@@ -7,6 +7,8 @@
   I have decided to make all of my projects available so you can see how much I have improved over the past couple of years!
   Take a look and ask me about them!
 
+  For React, check my most recent contribution: https://github.com/hugozeminian/web-project-course-registration
+
 <!---
 theWillPM/theWillPM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
