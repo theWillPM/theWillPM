@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Will.
 - 👀 I’m interested in programming and gaming. I just graduated from my Software Development Diploma program with a 4.0 GPA @BowValleyCollege! I'm so excited!
+  You may not find an extensive portfolio in my GitHub repository because I was focused on achieving a perfect GPA while working through college to support my education. 
 - 🌱 I love working with React, Node, Web in general, Databases, C#, OOP and making games. If I had to chose, C# WPF with a solid design pattern like MVVM would be me top pick!!!
 - 💞️ I’m looking to collaborate on ... Well, anything I find interesting or challenging enough - Bonus if it involves games or learning something new.
 - 📫 How to reach me: e-mail.
